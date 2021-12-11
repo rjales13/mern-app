@@ -13,4 +13,4 @@ PS: Both it will install all the necessaries packages
 This demonstration will show just a simple login screen where you will be able to create a new credential and use the same to login later
 
 ## NOTES
-This app is based on FUNCTIONS on react and also is using REDUX. Be aware to have installed NODE JS on your local machine!
+This app is based on FUNCTIONS on react and also is using REDUX. Be aware to have installed MONGODB on your local machine!

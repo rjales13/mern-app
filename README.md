@@ -3,10 +3,13 @@ Login Authentication using MongoDb + Express + React (Redux) + NodeJs
 
 ## STARTING
 1 - open the backend folder and run the command: npm i
+
 2 - open the frontend folder and run the command: npm i
+
 PS: Both it will install all the necessaries packages
 
 3 - on the backend folder run the command: npm run dev
+
 4 - on the backend folder run the command: npm run start
 
 ## DESCRIPTION

@@ -24,13 +24,13 @@ const LoginForm = (props) => {
           <div className="login-box">
             <div className="login-logo">
               <a href="../../index2.html">
-                <b>Nutri</b>Admin
+                <b>LOGIN</b>
               </a>
             </div>
             <div className="card">
               <div className="card-body login-card-body">
                 <p className="login-box-msg">
-                  Preencha seus dados para acessar!!!
+                  Fill the form to get in!!!
                 </p>
                 <Form onSubmit={onSubmit}>
                   {({ handleSubmit, form, dirtyFields }) => (
@@ -46,7 +46,7 @@ const LoginForm = (props) => {
                             name="name"
                             component="input"
                             type="text"
-                            placeholder="Nome"
+                            placeholder="Name"
                             className="form-control"
                             autoComplete="off"
                             required
@@ -79,7 +79,7 @@ const LoginForm = (props) => {
                           name="password"
                           component="input"
                           type="password"
-                          placeholder="Senha"
+                          placeholder="Password"
                           className="form-control"
                           autoComplete="off"
                           required
@@ -96,7 +96,7 @@ const LoginForm = (props) => {
                             name="confirm_password"
                             component="input"
                             type="password"
-                            placeholder="Confirmar Senha"
+                            placeholder="Confirm Password"
                             className="form-control"
                             autoComplete="off"
                             required
@@ -114,7 +114,7 @@ const LoginForm = (props) => {
                             type="submit"
                             className="btn btn-primary btn-block"
                           >
-                            Entrar
+                            Log In
                           </button>
                         </div>
                       </div>
@@ -130,7 +130,7 @@ const LoginForm = (props) => {
                       SetloginMode(!loginMode);
                     }}
                   >
-                    {loginMode ? "Novo Usuário?" : "Possui Cadastro?"}
+                    {loginMode ? "Sign Up" : "Log In?"}
                   </a>
                 </p>
               </div>

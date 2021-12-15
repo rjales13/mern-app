@@ -3,7 +3,7 @@
 Login Authentication using MongoDb + Express + React (Redux) + NodeJs
 </h1>
 
-<p align="center">This demonstration will show just a simple login authentication where you will be able to create a new credential and use the same to login later having NODEJS/EXPRESS as the Server and MONGODB as the databasee</p>
+<p align="center">This demonstration will show just a simple login authentication where you will be able to create a new credential and use the same to login later having NODEJS/EXPRESS as the Server and MONGODB as the database</p>
 
 <div style="display:flex">
   <img src="login.png" alt="demo" height="400" style="margin-right:10px">

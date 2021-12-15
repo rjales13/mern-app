@@ -1,51 +1,40 @@
-# MERN
-Login Authentication using MongoDb + Express + React (Redux) + NodeJs
-
-## STARTING
-1 - open the backend folder and run the command: npm i
-
-2 - open the frontend folder and run the command: npm i
-
-PS: Both it will install all the necessaries packages
-
-3 - on the backend folder run the command: npm run dev
-
-4 - on the backend folder run the command: npm run start
-
-## DESCRIPTION
-This demonstration will show just a simple login screen where you will be able to create a new credential and use the same to login later
-
-## NOTES
-This app is based on FUNCTIONS on react and also is using REDUX. Be aware to have installed MONGODB on your local machine!
-
-
 <h1 align="center">
 <br>
-MERN
+Login Authentication using MongoDb + Express + React (Redux) + NodeJs
 </h1>
 
-<p align="center">This demonstration will show just a simple login screen where you will be able to create a new credential and use the same to login later</p>
+<p align="center">This demonstration will show just a simple login authentication where you will be able to create a new credential and use the same to login later having NODEJS/EXPRESS as the Server and MONGODB as the databasee</p>
 
-<div>
-  <img src="login.png" alt="demo" height="425">
-  <img src="signup.png" alt="demo" height="425">
+<div style="display:flex">
+  <img src="login.png" alt="demo" height="400" style="margin-right:10px">
+  <img src="signup.png" alt="demo" height="400">
 </div>
 
 <hr />
 
 ## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
-
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- **React Js**
+- **Redux**
+- **Redux Toaster**
+- **Data-Table**
+- **Final Form**
+- **Node Js**
+- **Express**
+- **BCrypt**
+- **NodeMoon**
+- **Pm2**
+- **Mongoose**
+- **MongoDB**
 
 ## Getting started
 
-Describe here the way to use/install your project
+- open the backend folder and run the command: npm i
+- open the frontend folder and run the command: npm i
 
+PS: Both it will install all the necessaries packages
 
-## License
+- on the backend folder run the command: npm run dev
+- on the backend folder run the command: npm run start
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+## NOTES
+This app is based on REACT FUNCTIONS and also is using REDUX. Be aware to have installed MONGODB on your local machine!

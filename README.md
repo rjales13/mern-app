@@ -34,7 +34,7 @@ Login Authentication using MongoDb + Express + React (Redux) + NodeJs
 PS: Both it will install all the necessaries packages
 
 - on the backend folder run the command: npm run dev
-- on the backend folder run the command: npm run start
+- on the frontend folder run the command: npm run start
 
 ## NOTES
 This app is based on REACT FUNCTIONS and also is using REDUX. Be aware to have installed MONGODB on your local machine!
